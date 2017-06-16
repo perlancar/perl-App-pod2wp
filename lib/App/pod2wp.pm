@@ -184,6 +184,11 @@ _
     features => {
         dry_run => 1,
     },
+    links => [
+        {url=>'prog:org2wp'},
+        {url=>'prog:html2wp'},
+        {url=>'prog:wp-xmlrpc'},
+    ],
 };
 sub pod2wp {
     my %args = @_;
