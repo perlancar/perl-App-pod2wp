@@ -2,3 +2,4 @@ App-pod2wp-*
 .build
 *~
 nytprof*
+.DS_Store
